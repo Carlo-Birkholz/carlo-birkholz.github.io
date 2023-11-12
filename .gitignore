@@ -6,6 +6,4 @@ Gemfile.lock
 .jekyll-cache
 git-update.sh
 index.md
-assets/figures
 bib-files
-assets/CV
