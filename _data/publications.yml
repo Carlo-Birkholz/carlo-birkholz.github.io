@@ -1,22 +1,18 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: "Immigrant religious practices and criminality: The case of Ramadan"
+    authors: with David Gomtsyan
+    journal: Journal of Comparative Economics
+    volume: "51(1): 90-104 (2023)"
+    pdf: https://doi.org/10.1016/j.jce.2022.10.003
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: _site/assets/img/JCE_fig1.PNG
+    #notes:
+    abstract: "Ramadan has attracted negative publicity and criticism in Western countries with large Muslim immigrant 
+    populations. Are these attitudes justified? Does the behavior of Muslim immigrants negatively affect host 
+    populations during this period? This paper investigates one important dimension of immigrant behavior that is a 
+    source of concern: criminal activity. Using the universe of criminal offenses registered by the Swiss police 
+    authorities, the paper documents that during Ramadan, crimes committed by Muslim migrants decline by 11%. The 
+    mechanism behind this reduction most consistent with the empirical results, is one of changes in beliefs and values 
+    of immigrants. Other explanations, such as time spent on community events and declining physical ability play only 
+    a minor role."

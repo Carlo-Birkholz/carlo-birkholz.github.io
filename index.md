@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+<div style="text-align: justify">I am a researcher at the <a href="https://www.zew.de/en/research-at-zew/corporate-taxation-and-public-finance">Department of Public Finance and Corporate Taxation</a>
+at the <a href="https://www.zew.de/en/">ZEW - Leibniz Centre for European Economic Research </a> in Mannheim, Germany, and a 4th year 
+PhD student at the University of Mannheim. I am also an external affiliate of the <a href="https://www.nhh.no/en/research-centres/nocet/" >Norwegian Centre for Taxation (NoCeT)</a>.
+<br/><br/>
+My general research interests are in the fields of <em>Development Economics</em>, <em>Political Economy</em>, and <em>Public Finance</em>. 
+In particular I enjoy bringing large-scale, innovative data sources such as satellite imagery, household electricity consumption from smart meters, or 
+web-scraped data to study economic behaviour otherwise difficult to observe. </div>
+<br/><br/>
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan - May 2024]** Research visit at University of Notre Dame.
+
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/working_papers.md %}
+

@@ -1,0 +1,46 @@
+main:
+
+  - title: The Regional Economics of Mineral Resource Wealth in Africa
+    authors: with Zareh Asatryan, Thushyanthan Baskaran & Patrick Hufschmidt
+    journal: ZEW Discussion Paper No. 21-032
+    pdf: https://ftp.zew.de/pub/zew-docs/dp/dp21032.pdf
+    notes: Revise & Resubmit @ Economica
+    abstract: "We study the spatial economic effects of mineral resource activity. Using geocoded data on mine
+    openings and closures in Africa, we show that mining regions experience local booms while a mine
+    is in operation. We then explore how mineral resources affect non-mining regions. Non-mining
+    regions might be affected by mining activity due to deliberate government policies (e. g., regional
+    redistribution) or due to various inadvertent country-level macroeconomic adjustments (e. g., Dutch
+    Disease - type effects or decline in institutional quality). Our results suggest that mineral resources
+    have heterogeneous effects on non-mining regions. Politically important regions such as capitals
+    and leaders’ birth regions benefit economically while generic non-mining regions are, in general,
+    worse off from mineral resource activity. Exploring mechanisms, we find that these spatial patterns
+    emerge both due to deliberate government policies as well as Dutch-Disease-style macroeconomic
+    adjustments that harm regions specializing in sectors other than mining."
+
+  - title: "Favoritism and Firms: Micro Evidence and Macro Implications"
+    authors: with Zareh Asatryan, Thushyanthan Baskaran & David Gomtsyan
+    journal: CESifo Working Paper No. 9797
+    pdf: https://dx.doi.org/10.2139/ssrn.4137954
+    #notes: Revise & Resubmit @ Economica
+    abstract: "We study the economic implications of regional favoritism, a form of distributive politics that 
+    redistributes resources geographically within countries. Using enterprise surveys from low- and middle-income 
+    countries, we document that firms located close to leaders’ birthplaces grow substantially in sales and employment 
+    after leaders assume office. Firms in favored areas also experience increases in sales per worker, wages, and 
+    measured total factor productivity. These effects are short-lived, and operate through rising (public) demand for 
+    the non-tradable sector. We calibrate a simple structural model of resource misallocation on our estimates. 
+    This exercise implies that favoritism reduces output by 0.5% annually. "
+
+  - title: "Favoritism by the Governing Elite"
+    authors: with Zareh Asatryan, Thushyanthan Baskaran & Patrick Hufschmidt
+    journal: Ruhr Economic Papers No. 1029
+    pdf: https://doi.org/10.4419/96973198
+    #notes: Revise & Resubmit @ Economica
+    abstract: "In this paper, we study the extent to which ministers engage in regional favoritism. We are the first to 
+    provide a comprehensive analysis of a larger set of the governing elite, not just focusing on the primary leader. 
+    We manually collect birthplaces of this governing elite globally. Combining this information with extended nighttime 
+    luminosity and novel population data over the period from 1992 to 2016, we utilize a staggered 
+    difference-in-differences estimator and find that birthplaces of ministers globally emit on average roughly 9 % 
+    more nightlight. This result is predominantly attributable to the African sub-sample. We find no evidence that the 
+    measured effect is driven by, or induces, migration to the home regions of ministers. The size of our data set lets 
+    us investigate heterogeneities along a number of dimensions: political power, ministerial portfolio, and the 
+    institutional setting."
