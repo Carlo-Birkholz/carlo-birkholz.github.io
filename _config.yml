@@ -13,16 +13,16 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=1XF7UNwAAAAJ
-cv_link: CV/CV_Carlo_Birkholz_June_2023.pdf
+cv_link: ./assets/CV/CV_Carlo_Birkholz_June_2023.pdf
 github_link: https://github.com/Carlo-Birkholz
 linkedin: https://www.linkedin.com/in/carlo-birkholz-6b0524210/
 twitter: https://twitter.com/CarloBirkholz
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./figures/img/profilephoto.jpg
+avatar: ./assets/figures/img/profilephoto.jpg
 favicon: ./assets/img/favicon.png
-favicon_dark: ./figures/favicon_cb.png
+favicon_dark: ./assets/figures/favicon_cb.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
