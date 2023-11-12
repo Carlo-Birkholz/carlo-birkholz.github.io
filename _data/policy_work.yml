@@ -1,18 +1,47 @@
 main:
 
-  - title: "Immigrant religious practices and criminality: The case of Ramadan"
-    authors: with David Gomtsyan
-    journal: Journal of Comparative Economics
-    volume: "51(1): 90-104 (2023)"
-    pdf: https://doi.org/10.1016/j.jce.2022.10.003
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./JCE_fig1.PNG
+  - title: "Reorientation of the European Structural Policy in the next funding period 2028-2035 (ongoing)"
+    authors: with Friedrich Heinemann & Zareh Asatryan
+    contractor: German Federal Ministry of Finance
+    #volume: "51(1): 90-104 (2023)"
+    pdf: https://www.zew.de/en/research-at-zew/reorientation-of-the-european-structural-policy-in-the-next-funding-period-2028-2035
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./JCE_fig1.PNG
     #notes:
-    abstract: "Ramadan has attracted negative publicity and criticism in Western countries with large Muslim immigrant 
-    populations. Are these attitudes justified? Does the behavior of Muslim immigrants negatively affect host 
-    populations during this period? This paper investigates one important dimension of immigrant behavior that is a 
-    source of concern: criminal activity. Using the universe of criminal offenses registered by the Swiss police 
-    authorities, the paper documents that during Ramadan, crimes committed by Muslim migrants decline by 11%. The 
-    mechanism behind this reduction most consistent with the empirical results, is one of changes in beliefs and values 
-    of immigrants. Other explanations, such as time spent on community events and declining physical ability play only 
-    a minor role."
+    abstract: "In the Multiannual Financial Framework (MFF) 2021-2027, about 30 percent of all EU budgetary resources 
+    are allocated to cohesion. Additional amounts are made available to the European budget by Next Generation EU (NGEU) 
+    through REACT EU. The central goal of EU cohesion policy remains regional convergence. However, despite the 
+    substantial use of funds, convergence success is not assured. While there have been successes in East-West 
+    convergence, North-South divergence persists stubbornly. Against the background of these developments and 
+    methodological advances in the evaluation of EU regional policy, this project addresses, among others, the 
+    following questions: How is the \"European added value\" of an EU regional policy programme to be conceptually 
+    defined? How should the design and effectiveness of central rules of EU cohesion policy be assessed? What 
+    adjustments to the regional policy toolbox are necessary in terms of scope, instruments and rules?"
+
+  - title: "Is the European Central Bank on its way to being overloaded? "
+    authors: with Friedrich Heinemann
+    contractor: supported by the Strube Foundation
+    #volume: "51(1): 90-104 (2023)"
+    pdf: https://www.zew.de/en/research-at-zew/is-the-european-central-bank-on-its-way-to-being-overloaded
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./JCE_fig1.PNG
+    #notes:
+    abstract: "The Corona pandemic continues to have a major impact on social and economic activities in Europe at the 
+    end of 2021. Measures against the spread of the virus, such as lockdowns and short-time work, pose challenges to 
+    public finances in many countries due to the interplay of reduced tax revenues and higher government spending. To 
+    provide European countries with liquidity, the European Central Bank has therefore been buying government bonds in 
+    enormous volumes since 12 March 2020 as part of the specially launched Pandemic Emergency Purchase Programme (PEPP).
+     The ceiling of 750 billion euros envisaged at the beginning has long been exceeded and since has been raised twice, 
+     to now 1,850 billion euros. With this order of magnitude, the PEPP occupies a firm place in terms of importance 
+     alongside the Public Sector Purchase Program, the ECB's other extensive bond-buying programme. Since the ECB 
+     reserves the right under the PEPP to deviate from the ECB capital key when distributing bond purchases among the 
+     euro states, the already existing question about the significance of the ECB for public debt financing in the euro 
+     area is intensified.   Against this background, the aim of this research project is to present the development of 
+     bond purchases within the PEPP and PSPP, to trace the significance for individual euro countries and to analyse 
+     correlations with the ECB capital key and other parameters. The results are central to an assessment of the role of 
+     the ECB in the sovereign debt financing of European countries, as well as the long-term functioning and cohesion 
+     in the EU."
+    output: Magnitudes and Capital Key Divergence of the Eurosystem’s PSPP/PEPP Purchases
+    output1: https://ftp.zew.de/pub/zew-docs/ZEWKurzexpertisen/EN/ZEW_Shortreport2302.pdf
+    output2: https://ftp.zew.de/pub/zew-docs/ZEWKurzexpertisen/EN/ZEW_Shortreport2205.pdf
+    output3: https://ftp.zew.de/pub/zew-docs/ZEWKurzexpertisen/EN/ZEW_Shortreport2113.pdf

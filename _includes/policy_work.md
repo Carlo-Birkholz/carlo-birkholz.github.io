@@ -3,44 +3,25 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.policy_work.main %}
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.journal }}</em> {{link.volume}}
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
+      <div class="periodical"><em>{{ link.contractor }}</em> </div>
   </div>
 </div>
     {% if link.abstract %}
-    <details style="position: relative;padding-right: 15px;padding-left: 15px;"><summary>Abstract</summary><div style="text-align: justify">{{link.abstract}}</div></details>
+    <details style="position: relative;padding-right: 15px;padding-left: 15px;"><summary>Project description</summary><div style="text-align: justify">{{link.abstract}}</div></details>
+    {% endif %}
+    {% if link.output %}
+    <div style="position: relative;padding-right: 15px;padding-left: 15px;">Project output: <div style="color: rgb(62, 183, 240); font-weight: bold"> {{link.output}} </div> 
+    <div class="links">    
+    <a href="{{ link.output1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Update April 2023</a>
+    <a href="{{ link.output2 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Update June 2022</a>
+    <a href="{{ link.output3 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Update December 2021</a> </div> </div>
     {% endif %}
 </li>
 
