@@ -6,7 +6,7 @@ main:
     volume: "51(1): 90-104 (2023)"
     pdf: https://doi.org/10.1016/j.jce.2022.10.003
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: figures/JCE_fig1.PNG
+    image: ./JCE_fig1.PNG
     #notes:
     abstract: "Ramadan has attracted negative publicity and criticism in Western countries with large Muslim immigrant 
     populations. Are these attitudes justified? Does the behavior of Muslim immigrants negatively affect host 
