@@ -24,7 +24,6 @@ web-scraped data, with machine learning techniques like random forests and large
 
 ## Work in progress
 
-- The global software production network (with David Gomtsyan)
 - Chatt(GPT)ing about inflation: Medias influence on households' inflation expectations
 - Do they actually move? Detecting tax evasion with smart meters (with Maximilian Todtenhaupt)
 
