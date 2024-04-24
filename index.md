@@ -24,7 +24,7 @@ web-scraped data, with machine learning techniques like random forests and large
 
 ## Work in progress
 
-- Chatt(GPT)ing about inflation: Medias influence on households' inflation expectations
+- Chat(GPT)ing about inflation: Medias influence on households' inflation expectations (with Rudi Bachmann)
 - Do they actually move? Detecting tax evasion with smart meters (with Maximilian Todtenhaupt)
 
 {% include_relative _includes/policy_work.md %}
