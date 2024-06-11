@@ -15,6 +15,9 @@ web-scraped data, with machine learning techniques like random forests and large
 
 ## News
 
+- **[Aug 26-30, 2024]** Congress of the European Economic Association in Rotterdam.
+- **[Aug 21–23, 2024]** Congress of the International Institute of Public Finance in Prague.
+- **[Jul 3-6, 2024]** Armenian Economic Association in Yerevan.
 - **[Jan - May 2024]** Research visit at University of Notre Dame.
 
 
