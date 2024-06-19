@@ -1,5 +1,23 @@
 main:
 
+  - title: The Regional Economics of Mineral Resource Wealth in Africa
+    authors: with Zareh Asatryan, Thushyanthan Baskaran & Patrick Hufschmidt
+    journal: Economica
+    pdf: https://doi.org/10.1111/ecca.12540
+    #notes: Accepted @ Economica
+    image: ./assets/figures/minerals_fig1.PNG
+    abstract: "We study the spatial economic effects of mineral resource activity. Using geocoded data on mine
+    openings and closures in Africa, we show that mining regions experience local booms while a mine
+    is in operation. We then explore how mineral resources affect non-mining regions. Non-mining
+    regions might be affected by mining activity due to deliberate government policies (e. g., regional
+    redistribution) or due to various inadvertent country-level macroeconomic adjustments (e. g., Dutch
+    Disease - type effects or decline in institutional quality). Our results suggest that mineral resources
+    have heterogeneous effects on non-mining regions. Politically important regions such as capitals
+    and leaders’ birth regions benefit economically while generic non-mining regions are, in general,
+    worse off from mineral resource activity. Exploring mechanisms, we find that these spatial patterns
+    emerge both due to deliberate government policies as well as Dutch-Disease-style macroeconomic
+    adjustments that harm regions specializing in sectors other than mining."
+
   - title: "Immigrant religious practices and criminality: The case of Ramadan"
     authors: with David Gomtsyan
     journal: Journal of Comparative Economics
@@ -16,3 +34,4 @@ main:
     mechanism behind this reduction most consistent with the empirical results, is one of changes in beliefs and values 
     of immigrants. Other explanations, such as time spent on community events and declining physical ability play only 
     a minor role."
+
