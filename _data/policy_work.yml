@@ -43,6 +43,23 @@ main:
     evaluation to foster independent third-party reviews."
     authors1: with Friedrich Heinemann, Zareh Asatryan, Julia Bachtrögler-Unger, Franceso Corti, Maximilian von Ehrlich, Ugo Fratesi, Clemens Fuest, Valentin Lang & Martin Weber
     journal1: ZEW Discussion Paper No. 24-034 // 2024
+    paper2: Evidence-Based Policy or Beauty Contest? An LLM-Based Meta-Analysis of EU Cohesion Policy Evaluations
+    pdf2: https://ftp.zew.de/pub/zew-docs/dp/dp24037.pdf?_gl=1*1wb3drg*_ga*MjAwOTE2MjY0OS4xNzE1MTIzNzM0*_ga_KFD4G5CY27*MTcyMTQ5Mjc4MC4zNi4xLjE3MjE0OTM1NzEuMC4wLjA.
+    abstract2: "Independent and high-quality evaluations of government policies are an important input for designing 
+    evidence-based policy. Lack of incentives and institutions to write such evaluations, on the other hand, carry the 
+    risk of turning the system into a costly beauty contest. We study one of the most advanced markets of policy 
+    evaluations in the world, the evaluations of EU Cohesion Policies by its Member States (MS). We use large language 
+    models quantify the findings of about 2,300 evaluations, and complement this data with our own survey of the 
+    authors. We show that the findings of evaluations are inconsistent with those of the academic literature on the 
+    output impacts of Cohesion Policy. Using further variation across MS, our analysis suggests that the market of 
+    evaluations is rather oligopolistic within MS, that it is very fragmented across the EU, and that there is often a 
+    strong involvement of managing authorities in the work of formally independent evaluators. These factors contribute 
+    to making the findings of the evaluations overly optimistic (beautiful) risking their overall usefulness 
+    (evidence-based policy). We conclude by discussing reform options to make the evaluations of EU Cohesion Policies 
+    more unbiased and effective."
+    authors2: with Zareh Asatryan and Friedrich Heinemann
+    journal2: ZEW Discussion Paper No. 24-037 // 2024
+    notes2: R&R @ ITAX
 
   - title: "Is the European Central Bank on its way to being overloaded? "
     authors: with Friedrich Heinemann

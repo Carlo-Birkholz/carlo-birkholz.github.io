@@ -27,7 +27,7 @@
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"><br>Project output:
         <div class="title"><a href="{{ link.pdf1 }}" target="_blank">{{ link.paper1 }}</a></div>
         <div class="author">{{ link.authors1 }}</div>
-        <div class="periodical"><em>{{ link.journal1 }}</em>
+        <div class="periodical"><em>{{ link.journal1 }}</em> 
       </div>
         <div class="links">
         {% if link.pdf1 %} 
@@ -38,6 +38,21 @@
         {% if link.abstract1 %}
         <details style="position: relative;padding-right: 15px;padding-left: 15px;"><summary>Abstract</summary><div style="text-align: justify">{{link.abstract1}}</div></details>
         {% endif %}
+        #<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"><br>
+        <div class="title"><a href="{{ link.pdf2 }}" target="_blank">{{ link.paper2 }}</a></div>
+        <div class="author">{{ link.authors2 }}</div>
+        <div class="periodical"><em>{{ link.journal2 }}</em></div>
+        {% if link.notes2 %} 
+        <strong> <i style="color:#e74d3c">{{ link.notes2 }}</i></strong>
+        {% endif %}
+        <div class="links">
+        {% if link.pdf2 %} 
+            <a href="{{ link.pdf2 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        {% endif %}
+        </div>
+        </div>
+        {% if link.abstract2 %}
+        <details style="position: relative;padding-right: 15px;padding-left: 15px;"><summary>Abstract</summary><div style="text-align: justify">{{link.abstract2}}</div></details>
     {% endif %}
 </li>
 
