@@ -53,6 +53,7 @@
         </div>
         {% if link.abstract2 %}
         <details style="position: relative;padding-right: 15px;padding-left: 15px;"><summary>Abstract</summary><div style="text-align: justify">{{link.abstract2}}</div></details>
+        {% endif %}
     {% endif %}
 </li>
 
