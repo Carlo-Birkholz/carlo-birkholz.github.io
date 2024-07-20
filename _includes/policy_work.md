@@ -38,7 +38,7 @@
         {% if link.abstract1 %}
         <details style="position: relative;padding-right: 15px;padding-left: 15px;"><summary>Abstract</summary><div style="text-align: justify">{{link.abstract1}}</div></details>
         {% endif %}
-        #<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"><br>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"><br>
         <div class="title"><a href="{{ link.pdf2 }}" target="_blank">{{ link.paper2 }}</a></div>
         <div class="author">{{ link.authors2 }}</div>
         <div class="periodical"><em>{{ link.journal2 }}</em></div>
