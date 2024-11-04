@@ -15,10 +15,9 @@ web-scraped data, with machine learning techniques like random forests and large
 
 ## News
 
+- **[April 2025]** I will start as a post-doc (Akademischer Rat) at the Chair for Development Economics at the University of Göttingen. 
 - **[Aug 26-30, 2024]** Congress of the European Economic Association in Rotterdam.
 - **[Aug 21–23, 2024]** Congress of the International Institute of Public Finance in Prague.
-- **[Jul 3-6, 2024]** Armenian Economic Association in Yerevan.
-- **[Jan - May 2024]** Research visit at University of Notre Dame.
 
 
 {% include_relative _includes/publications.md %}
@@ -29,5 +28,7 @@ web-scraped data, with machine learning techniques like random forests and large
 
 - Chat(GPT)ing about inflation: Medias influence on households' inflation expectations (with Rudi Bachmann)
 - Do they actually move? Detecting tax evasion with smart meters (with Maximilian Todtenhaupt)
+- Beyond additionality: The Impact of EU Cohesion Policy on Investments by the Member States (with Zareh Asatryan)
+- Mexico City Policy: Causal analysis of direct and indirect effects (with Karina Kindler)
 
 {% include_relative _includes/policy_work.md %}
