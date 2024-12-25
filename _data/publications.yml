@@ -1,8 +1,28 @@
 main:
 
+  - title: Evidence-based policy or beauty contest? An LLM-based meta-analysis of EU cohesion policy evaluations
+    authors: with Zareh Asatryan & Friedrich Heinemann
+    journal: International Tax and Public Finance
+    volume: ", 1-31 (2024)"
+    pdf: https://link.springer.com/article/10.1007/s10797-024-09875-4
+    image: ./assets/figures/Evals_ITAX.PNG
+    abstract: "Independent and high-quality evaluations of government policies are an important input for designing 
+    evidence-based policy. Institutional frictions and lack of incentives to write such evaluations, on the other 
+    hand, carry the risk of turning the system into a costly beauty contest. We study one of the most advanced markets 
+    of policy evaluations in the world, the evaluations of EU Cohesion Policy interventions by the EU Member States. 
+    We use a large language model to quantify the findings of about 2,300 evaluations, and complement this data with 
+    our own survey of the evaluation authors. We show that the findings of evaluations are inconsistent with those of 
+    the academic literature on the output impacts of Cohesion Policy. Using further variation across Member States, 
+    our analysis suggests that the market of evaluations is rather oligopolistic within Member States, that it is very 
+    fragmented across the EU, and that there is often a strong involvement of managing authorities in the work of 
+    formally independent evaluators. These factors contribute to making the findings of the evaluations overly 
+    optimistic (beautiful) risking their relevance for (evidence-based) policy. We conclude by discussing reform 
+    options to make the evaluations of EU Cohesion Policy more unbiased and effective."
+
   - title: The Regional Economics of Mineral Resource Wealth in Africa
     authors: with Zareh Asatryan, Thushyanthan Baskaran & Patrick Hufschmidt
     journal: Economica
+    volume: " (2024)"
     pdf: https://doi.org/10.1111/ecca.12540
     #notes: Accepted @ Economica
     image: ./assets/figures/minerals_fig1.PNG
