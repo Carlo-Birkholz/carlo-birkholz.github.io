@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-<div style="text-align: justify">I am a researcher at the <a href="https://www.zew.de/en/research-at-zew/corporate-taxation-and-public-finance" target="_blank">Department of Public Finance and Corporate Taxation</a>
-at the <a href="https://www.zew.de/en/" target="_blank">ZEW - Leibniz Centre for European Economic Research </a> in Mannheim, Germany, and a 4th year 
-Ph.D. student at the University of Mannheim. I am also an external affiliate of the <a href="https://www.nhh.no/en/research-centres/nocet/" target="_blank">Norwegian Centre for Taxation (NoCeT)</a>.
-<br/><br/>
+<div style="text-align: justify">I am Assistant Professor (Akademischer Rat a. Z.) at the <a href="https://www.uni-goettingen.de/en/696774.html" target="_blank">Chair of Development Economics</a>
+at the University of Göttingen, Germany. I am also an external affiliate of the <a href="https://www.nhh.no/en/research-centres/nocet/" target="_blank">Norwegian Centre for Taxation (NoCeT)</a>. 
+I have received my Ph.D. from the University of Mannheim.
+<br/><br/> 
 My general research interests are in the fields of <em>Development Economics</em>, <em>Political Economy</em>, and <em>Public Finance</em>. 
 In particular, I enjoy bringing together innovative data sources such as satellite imagery, household electricity consumption from smart meters, or 
 web-scraped data, with machine learning techniques like random forests and large language models to answer economic questions otherwise difficult to study. </div>
@@ -15,9 +15,10 @@ web-scraped data, with machine learning techniques like random forests and large
 
 ## News
 
-- **[April 2025]** I will start as a post-doc (Akademischer Rat) at the Chair for Development Economics at the University of Göttingen. 
-- **[Aug 26-30, 2024]** Congress of the European Economic Association in Rotterdam.
-- **[Aug 21–23, 2024]** Congress of the International Institute of Public Finance in Prague.
+- **[June 12-13, 2025]** German Development Economics Conference in Frankfurt.
+- **[June 19–22, 2025]** Beyond Basic Questions Workshop in Kloster St. Josef Neumarkt.
+- **[June 30 - July 2, 2025]** Armenian Economic Association conference in Yerevan.
+- **[Summer term 2025]** I will teach the Bachelor seminar <i> Innovative Data Sources in Economic Research </i> and the Master seminar <i> Geospatial Analysis for Development Economics </i> at the University of Göttingen. 
 
 
 {% include_relative _includes/publications.md %}
@@ -27,7 +28,7 @@ web-scraped data, with machine learning techniques like random forests and large
 ## Work in progress
 
 - Chat(GPT)ing about inflation: Medias influence on households' inflation expectations (with Rudi Bachmann)
-- Do they actually move? Detecting tax evasion with smart meters (with Maximilian Todtenhaupt)
+- Do they actually move? Detecting tax evasion with smart meters (with Maximilian Todtenhaupt & Johannes Voget)
 - Beyond additionality: The Impact of EU Cohesion Policy on Investments by the Member States (with Zareh Asatryan)
 - Mexico City Policy: Causal analysis of direct and indirect effects (with Karina Kindler)
 
