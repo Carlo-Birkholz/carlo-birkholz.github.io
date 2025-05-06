@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<div style="text-align: justify">I am Assistant Professor (Akademischer Rat a. Z.) at the <a href="https://www.uni-goettingen.de/en/696774.html" target="_blank">Chair of Development Economics</a>
+<div style="text-align: justify">I am Assistant Professor (Akademischer Rat a. Z.) at the <a href="https://www.uni-goettingen.de/en/696774.html" target="_blank">Chair of Development Economics and Global Political Economy</a>
 at the University of Göttingen, Germany. I am also an external affiliate of the <a href="https://www.nhh.no/en/research-centres/nocet/" target="_blank">Norwegian Centre for Taxation (NoCeT)</a>. 
 I have received my Ph.D. from the University of Mannheim.
 <br/><br/> 
