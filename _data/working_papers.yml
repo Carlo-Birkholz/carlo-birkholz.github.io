@@ -1,19 +1,5 @@
 main:
 
-  - title: The Global Software Production Network
-    authors: with David Gomtsyan
-    journal: Under Review
-    pdf: ./assets/WPs/The_global_software_production_network.pdf
-    #notes:
-    image: ./assets/figures/github_tab3.PNG
-    abstract: "Can developing countries benefit from exporting opportunities in the growing sector of tradable services, 
-    given the near free information flow via the internet and wage differentials relative to developed countries? 
-    Focusing on the software development industry, we analyse data from 2.55 million software projects across 5,400 
-    locations, and estimate an economic geography model in which locations trade tasks. The results reveal three 
-    factors limiting exports: (i) significant productivity differences within and between countries; (ii) a notable 
-    decline in trade volumes with distance; (iii) sorting patterns among software developers that are suggestive of 
-    brain drain."
-
   - title: "Favoritism and Firms: Micro Evidence and Macro Implications"
     authors: with Zareh Asatryan, Thushyanthan Baskaran & David Gomtsyan
     journal: CESifo Working Paper No. 9797

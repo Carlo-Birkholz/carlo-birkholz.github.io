@@ -1,4 +1,17 @@
 main:
+  - title: The Global Software Production Network
+    authors: with David Gomtsyan
+    journal: Journal of Development Economics
+    volume: ", Volume 180 (2026)"
+    pdf: https://doi.org/10.1016/j.jdeveco.2025.103708
+    image: ./assets/figures/github_tab3.PNG
+    abstract: "Can developing countries benefit from exporting opportunities in the growing sector of tradable services,
+     given the near free information flow via the internet and wage differentials relative to developed countries? 
+     Focusing on the software development industry, we analyze data from 2.68 million software projects across 5200 
+     locations, and estimate an economic geography model in which locations trade tasks. The results reveal three 
+     factors limiting exports: (i) significant productivity differences within and between countries; (ii) a notable 
+     decline in trade volumes with distance; (iii) sorting patterns among software developers that are suggestive of 
+     brain drain."
 
   - title: Evidence-based policy or beauty contest? An LLM-based meta-analysis of EU cohesion policy evaluations
     authors: with Zareh Asatryan & Friedrich Heinemann
