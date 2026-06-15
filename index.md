@@ -20,6 +20,7 @@ I received my Ph.D. from the University of Mannheim, and my dissertation was awa
 <br/><br/> 
 My general research interests are in the fields of <em>Development Economics</em>, <em>Political Economy</em>, and <em>Public Finance</em>. 
 In particular, I enjoy bringing together innovative data sources such as satellite imagery, household electricity consumption from smart meters, or web-scraped data with machine learning techniques such as random forests and large language models to answer economic questions otherwise difficult to study.
+<br/><br/>
 </div>
 
 ## News
@@ -37,5 +38,7 @@ In particular, I enjoy bringing together innovative data sources such as satelli
 - Do they actually move? Detecting tax evasion with smart meters (with Maximilian Todtenhaupt & Johannes Voget)
 - Beyond additionality: The Impact of EU Cohesion Policy on Investments by the Member States (with Zareh Asatryan)
 - Mexico City Policy: Causal analysis of direct and indirect effects (with Karina Kindler)
+
+{% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/policy_work.md %}

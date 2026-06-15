@@ -1,0 +1,15 @@
+main:
+  - course: "Macroeconomics II"
+    periods:
+      - "Summer 26"
+
+  - course: "Geospatial Analysis in Development Economics"
+    periods:
+      - "Summer 25"
+      - "Winter 25/26"
+      - "Winter 26/27 (planned)"
+
+  - course: "Innovative Data Sources in Economic Research"
+    periods:
+      - "Summer 25"
+      - "Summer 26"
